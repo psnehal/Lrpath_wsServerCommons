@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/WebBackend/!svn/ver/462/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/restlet
+END
+AbstractRestletApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/codestore/ncibi/WebBackend/!svn/ver/462/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/restlet/AbstractRestletApplication.java
+END

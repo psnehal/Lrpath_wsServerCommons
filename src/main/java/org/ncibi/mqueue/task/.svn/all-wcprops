@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/742/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task
+END
+TaskAndArgDequeuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/WebBackend/!svn/ver/710/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/TaskAndArgDequeuer.java
+END
+TaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/WebBackend/!svn/ver/711/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/TaskUtil.java
+END
+TaskDequeuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/codestore/ncibi/WebBackend/!svn/ver/715/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/TaskDequeuer.java
+END
+PersistentTaskDequeuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/codestore/ncibi/WebBackend/!svn/ver/715/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/PersistentTaskDequeuer.java
+END
+TaskArgRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/WebBackend/!svn/ver/721/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/TaskArgRetriever.java
+END
+TaskQueuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/WebBackend/!svn/ver/510/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/TaskQueuer.java
+END
+PersistentTaskQueuer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/codestore/ncibi/WebBackend/!svn/ver/551/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/PersistentTaskQueuer.java
+END
+PersistentTaskQueuer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/codestore/ncibi/WebBackend/!svn/ver/742/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/task/PersistentTaskQueuer2.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/codestore/ncibi/WebBackend/!svn/ver/660/WebServices/ws-server-common/trunk/src/main/resources/org/ncibi/resource/bundle
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/codestore/ncibi/WebBackend/!svn/ver/660/WebServices/ws-server-common/trunk/src/main/resources/org/ncibi/resource/bundle/database.properties
+END
+msdatabase.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/codestore/ncibi/WebBackend/!svn/ver/660/WebServices/ws-server-common/trunk/src/main/resources/org/ncibi/resource/bundle/msdatabase.properties
+END
+mssql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/codestore/ncibi/WebBackend/!svn/ver/660/WebServices/ws-server-common/trunk/src/main/resources/org/ncibi/resource/bundle/mssql.properties
+END
+sql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/WebBackend/!svn/ver/660/WebServices/ws-server-common/trunk/src/main/resources/org/ncibi/resource/bundle/sql.properties
+END

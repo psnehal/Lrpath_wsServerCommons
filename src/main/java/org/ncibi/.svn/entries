@@ -1,0 +1,55 @@
+10
+
+dir
+795
+https://www.umms.med.umich.edu/codestore/ncibi/WebBackend/WebServices/ws-server-common/trunk/src/main/java/org/ncibi
+https://www.umms.med.umich.edu/codestore/ncibi/WebBackend
+
+
+
+2012-05-11T16:44:06.896992Z
+789
+gtarcea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b38d4d4e-9763-0410-b82b-ed965bb9b5d7
+
+mqueue
+dir
+
+rabbitmq
+dir
+
+task
+dir
+
+db
+dir
+
+uuid
+dir
+
+ws
+dir
+
+aws
+dir
+
+lrpath
+dir
+
+util
+dir
+

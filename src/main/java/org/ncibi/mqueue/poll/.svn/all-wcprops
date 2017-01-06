@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/563/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/poll
+END
+AlwaysNullPoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/WebBackend/!svn/ver/563/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/poll/AlwaysNullPoller.java
+END
+NSecondsPoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/WebBackend/!svn/ver/563/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/poll/NSecondsPoller.java
+END
+AdaptivePoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/WebBackend/!svn/ver/563/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/poll/AdaptivePoller.java
+END
+Poller.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/codestore/ncibi/WebBackend/!svn/ver/563/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/poll/Poller.java
+END

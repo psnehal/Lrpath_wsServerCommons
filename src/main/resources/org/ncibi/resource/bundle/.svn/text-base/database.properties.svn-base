@@ -1,0 +1,12 @@
+
+username=db$conceptgen
+password=USER$$321CONCEPTGEN
+
+usernamePrivate=db$conceptgen_private
+passwdPrivate=USER$$321CONCEPTGEN
+
+
+url=jdbc:sqlserver://ncibidb3.bicc.med.umich.edu:1433;databaseName=conceptgen
+driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+username=userConceptgen
+password=userC0nc3p93n

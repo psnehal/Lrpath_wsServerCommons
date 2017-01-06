@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/700/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource
+END
+AbstractResponseServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/codestore/ncibi/WebBackend/!svn/ver/696/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/AbstractResponseServerResource.java
+END
+ResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/codestore/ncibi/WebBackend/!svn/ver/374/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/ResourceHandler.java
+END
+ResponseFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/WebBackend/!svn/ver/696/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/ResponseFormat.java
+END
+AbstractResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/codestore/ncibi/WebBackend/!svn/ver/375/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/AbstractResourceHandler.java
+END
+AbstractSimpleResponseServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/codestore/ncibi/WebBackend/!svn/ver/662/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/AbstractSimpleResponseServerResource.java
+END
+AbstractSimpleResponseServerResource2.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/codestore/ncibi/WebBackend/!svn/ver/700/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/resource/AbstractSimpleResponseServerResource2.java
+END

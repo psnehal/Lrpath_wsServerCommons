@@ -1,0 +1,4 @@
+task.db.url=jdbc:sqlserver://ncibidb3.bicc.med.umich.edu:1433;databaseName=mimir2v1;selectMethod=cursor;schema=ws
+default.db.username=
+default.db.password=
+status.dir=c:/Glenn/status/

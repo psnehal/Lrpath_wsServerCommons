@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/WebBackend/!svn/ver/750/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/codestore/ncibi/WebBackend/!svn/ver/720/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/Task.java
+END
+SplitterArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/codestore/ncibi/WebBackend/!svn/ver/639/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/SplitterArgs.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/590/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/Queue.java
+END
+TaskLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/codestore/ncibi/WebBackend/!svn/ver/590/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/TaskLog.java
+END
+TaskType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/WebBackend/!svn/ver/750/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/TaskType.java
+END
+QMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/WebBackend/!svn/ver/590/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/QMessage.java
+END
+ServiceArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/WebBackend/!svn/ver/718/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/ServiceArguments.java
+END
+QueueStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/WebBackend/!svn/ver/554/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/db/ws/QueueStatus.java
+END

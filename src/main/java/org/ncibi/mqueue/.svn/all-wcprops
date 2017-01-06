@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/WebBackend/!svn/ver/742/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue
+END
+MessageQueueConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/codestore/ncibi/WebBackend/!svn/ver/709/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/MessageQueueConfiguration.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/WebBackend/!svn/ver/551/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/Message.java
+END
+MessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/codestore/ncibi/WebBackend/!svn/ver/561/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/MessageQueue.java
+END
+QueueOperationNotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/codestore/ncibi/WebBackend/!svn/ver/561/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/QueueOperationNotAllowedException.java
+END

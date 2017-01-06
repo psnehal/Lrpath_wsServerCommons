@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/782/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/task/logger
+END
+ConsoleIdTaskLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/codestore/ncibi/WebBackend/!svn/ver/782/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/task/logger/ConsoleIdTaskLogger.java
+END
+TaskLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/WebBackend/!svn/ver/627/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/task/logger/TaskLogger.java
+END
+PersistentTaskLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/codestore/ncibi/WebBackend/!svn/ver/712/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/task/logger/PersistentTaskLogger.java
+END
+PersistentConsoleTaskLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/codestore/ncibi/WebBackend/!svn/ver/712/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/task/logger/PersistentConsoleTaskLogger.java
+END

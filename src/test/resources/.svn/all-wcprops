@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/codestore/ncibi/WebBackend/!svn/ver/764/WebServices/ws-server-common/trunk/src/test/resources
+END
+test.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/WebBackend/!svn/ver/494/WebServices/ws-server-common/trunk/src/test/resources/test.properties.template
+END
+project.config
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/codestore/ncibi/WebBackend/!svn/ver/494/WebServices/ws-server-common/trunk/src/test/resources/project.config
+END

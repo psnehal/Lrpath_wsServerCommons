@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/WebBackend/!svn/ver/564/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/aws/sqs
+END
+SQSUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/codestore/ncibi/WebBackend/!svn/ver/531/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/aws/sqs/SQSUtil.java
+END
+SQSQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codestore/ncibi/WebBackend/!svn/ver/563/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/aws/sqs/SQSQueue.java
+END

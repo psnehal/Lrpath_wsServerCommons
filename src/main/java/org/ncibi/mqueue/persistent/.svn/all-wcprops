@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/codestore/ncibi/WebBackend/!svn/ver/711/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/persistent
+END
+AnyMessagePersistentMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/codestore/ncibi/WebBackend/!svn/ver/633/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/persistent/AnyMessagePersistentMessageQueue.java
+END
+SelectTypePersistentMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/codestore/ncibi/WebBackend/!svn/ver/711/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/persistent/SelectTypePersistentMessageQueue.java
+END
+AbstractPersistentMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/codestore/ncibi/WebBackend/!svn/ver/633/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/mqueue/persistent/AbstractPersistentMessageQueue.java
+END

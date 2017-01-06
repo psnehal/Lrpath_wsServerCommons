@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/codestore/ncibi/WebBackend/!svn/ver/713/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/rabbitmq
+END
+RabbitMQUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/WebBackend/!svn/ver/713/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/rabbitmq/RabbitMQUtil.java
+END
+RabbitMQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/WebBackend/!svn/ver/713/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/rabbitmq/RabbitMQ.java
+END

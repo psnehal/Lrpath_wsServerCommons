@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/WebBackend/!svn/ver/677/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/model/xstream/converter
+END
+MxTerminatorConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/codestore/ncibi/WebBackend/!svn/ver/574/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/model/xstream/converter/MxTerminatorConverter.java
+END
+ResponseConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/codestore/ncibi/WebBackend/!svn/ver/677/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/model/xstream/converter/ResponseConverter.java
+END

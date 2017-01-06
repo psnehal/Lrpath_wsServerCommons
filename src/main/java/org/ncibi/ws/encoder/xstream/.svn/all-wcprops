@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/codestore/ncibi/WebBackend/!svn/ver/712/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/encoder/xstream
+END
+AbstractXStreamEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/codestore/ncibi/WebBackend/!svn/ver/478/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/encoder/xstream/AbstractXStreamEncoder.java
+END
+AbstractXStreamEncoder2.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/codestore/ncibi/WebBackend/!svn/ver/700/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/encoder/xstream/AbstractXStreamEncoder2.java
+END
+AbstractNcibiXStreamEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/codestore/ncibi/WebBackend/!svn/ver/475/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/encoder/xstream/AbstractNcibiXStreamEncoder.java
+END
+AbstractNcibiXStreamEncoder2.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/codestore/ncibi/WebBackend/!svn/ver/712/WebServices/ws-server-common/trunk/src/main/java/org/ncibi/ws/encoder/xstream/AbstractNcibiXStreamEncoder2.java
+END
